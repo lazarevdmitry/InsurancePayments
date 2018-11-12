@@ -1,0 +1,21 @@
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.MainForm.resources
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.csproj.GenerateResource.Cache
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\bin\Debug\InsurancePayments.exe.config
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\bin\Debug\InsurancePayments.exe
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\bin\Debug\InsurancePayments.pdb
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.exe
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.pdb
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.Cal.resources
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.Pretention.resources
+C:\Users\LowPerformance\Documents\SharpDevelop Projects\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.csprojResolveAssemblyReference.cache
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.csprojResolveAssemblyReference.cache
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.Cal.resources
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.MainForm.resources
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.Pretention.resources
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.csproj.GenerateResource.Cache
+E:\Проекты\InsurancePayments\InsurancePayments\bin\Debug\InsurancePayments.exe.config
+E:\Проекты\InsurancePayments\InsurancePayments\bin\Debug\InsurancePayments.exe
+E:\Проекты\InsurancePayments\InsurancePayments\bin\Debug\InsurancePayments.pdb
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.exe
+E:\Проекты\InsurancePayments\InsurancePayments\obj\Debug\InsurancePayments.pdb
+E:\Проекты\InsurancePayments\InsurancePayments\bin\Debug\NUnit.Framework.dll
